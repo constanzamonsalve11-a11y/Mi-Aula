@@ -1,6 +1,5 @@
-// Claves PÚBLICAS del proyecto Supabase. No incluyas service_role ni secretos.
-// Completa estos valores después de crear el proyecto.
+
 window.MI_AULA_CONFIG = {
-  supabaseUrl: '',
-  supabaseAnonKey: ''
+  supabaseUrl: 'https://kpmpnhtyuxrioqltelqb.supabase.co',
+  supabaseAnonKey: 'sb_publishable_RN9m15kc_-oARNIpkh62iQ_R0ch9fHx'
 };
